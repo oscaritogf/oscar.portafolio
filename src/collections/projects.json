@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Encriptador",
+		"description": "Proyecto de codificador y descodificador de texto usando html5, javaScript y CSS.",
+		"image": "/assets/images/projects/encripted.png",
+		"url": "https://oscaritogf.github.io/encriptador.website/"
+	},
+	{
+		"name": "Barberia",
+		"description": "Diseño de una website para una barbería usando html5.",
+		"image": "/assets/images/projects/dns.surf.png",
+		"url": "https://oscaritogf.github.io/barberia.website/"
+	},
+	{
+		"name": "Website de cursos",
+		"description": "Diseño de una website para cursos usando html5, CSS y Flexbox.",
+		"image": "/assets/images/projects/mini.png",
+		"url": "https://oscaritogf.github.io/cursos.website/"
+	}
+]

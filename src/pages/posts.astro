@@ -1,0 +1,19 @@
+---
+import PageHeading from "../components/page-heading.astro";
+import PostsLoop from "../components/posts-loop.astro";
+import Layout from "../layouts/main.astro";
+import Skill from "../components/home/skill.astro";
+---
+
+<Layout title="Mis Skills">
+  <section class="relative z-20 max-w-2xl mx-auto my-12 px-7 lg:px-0">
+    <PageHeading
+      title="Mis skill"
+      description="A continuacion veras una lista de mis SKill!"
+    />
+
+    <div class="z-50 flex flex-col items-stretch w-full gap-5 my-8">
+      <Skill count="10" />
+    </div>
+  </section>
+</Layout>

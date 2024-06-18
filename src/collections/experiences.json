@@ -1,0 +1,25 @@
+[
+	{
+		"dates": "June 2018 · Present",
+		"role": "Front-end",
+		"company": "Clases UNAH",
+		"description": "Consumir API-REST de una app de delivery con el frameworks de laravel ",
+		"logo": "/assets/images/experiences/frontend.ico"
+	},
+	
+	{
+		"dates": "September 2014 · July 2015 ",
+		"role": "Backend",
+		"company": "Clases UNAH",
+		"description": "Siste de campus virtual diseño arquitectura de la webapp en Nodejs  ",
+		"logo": "/assets/images/experiences/backend.ico"
+	},
+	{
+		"dates": "July 2015 · June 2018",
+		"role": "Bases de Datos",
+		"company": "Clases UNAH",
+		"description": "Diseño arquitectura y desarrollo de base de datos en SQL Server  ",
+		"logo": "/assets/images/experiences/bases.ico"
+	}
+]
+
